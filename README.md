@@ -7,3 +7,5 @@ Command to run: <br/>
 <br/>
 we have 3 different program file.<br/>
 main.py is the most important one.
+<br>
+We have used python 3.6.9 version(to use time() function there are many ways ,but what we have used is supported by python 3.6.9)<br>
